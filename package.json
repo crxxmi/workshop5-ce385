@@ -1,0 +1,14 @@
+{
+  "name": "ce385-week5",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.mjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
